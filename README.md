@@ -1,21 +1,179 @@
-<h1 align="center">Hi 👋, I'm Vishal Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-chaudharyy&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-chaudharyy" /> </p>
+<!-- ================= HEADER BANNER ================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-chaudharyy" alt="vishal-chaudharyy" /></a> </p>
-
-- 📫 How to reach me **vishalchaudhary9625@gmail.com**
-
-
-<p align="left">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Vishal%20Chaudhary&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=18"
+    width="100%"
+    alt="Vishal Chaudhary - Aspiring Web Developer"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ================= ABOUT ME ================= -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-chaudharyy&show_icons=true&locale=en&layout=compact" alt="vishal-chaudharyy" /></p>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-chaudharyy&show_icons=true&locale=en" alt="vishal-chaudharyy" /></p>
+<p align="center">
+  Hey there! I'm <b>Vishal Chaudhary</b> from India 🇮🇳
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-chaudharyy&" alt="vishal-chaudharyy" /></p>
+<p align="left">
+  🎓 BCA student passionate about technology and coding.
+  <br><br>
+  💻 Interested in frontend development and building websites.
+  <br><br>
+  🚀 Love turning ideas into real-world projects.
+  <br><br>
+  🌱 Always learning and improving my programming skills.
+  <br><br>
+  🎯 Goal: Become a skilled web developer.
+</p>
+
+---
+
+<!-- ================= CONNECT WITH ME ================= -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  Let's connect and grow together!
+</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="YOUR_LINKEDIN_URL" style="text-decoration: none; color: inherit;">
+        <img
+          src="https://skillicons.dev/icons?i=linkedin"
+          width="45"
+          alt="LinkedIn"
+        />
+        <br><br>
+        <b>LinkedIn</b>
+        <br>
+        <sub>Connect with me</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="YOUR_TWITTER_URL" style="text-decoration: none; color: inherit;">
+        <img
+          src="https://skillicons.dev/icons?i=twitter"
+          width="45"
+          alt="Twitter"
+        />
+        <br><br>
+        <b>Twitter / X</b>
+        <br>
+        <sub>Follow me</sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="mailto:YOUR_EMAIL@gmail.com" style="text-decoration: none; color: inherit;">
+        <img
+          src="https://skillicons.dev/icons?i=gmail"
+          width="45"
+          alt="Gmail"
+        />
+        <br><br>
+        <b>Gmail</b>
+        <br>
+        <sub>Email me</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+---
+
+<!-- ================= SKILLS AND TOOLS ================= -->
+
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode"
+    alt="HTML CSS JavaScript C++ Python Git GitHub VS Code"
+  />
+</p>
+
+<p align="center">
+  <sub>Technologies I use and practice while learning.</sub>
+</p>
+
+---
+
+<!-- ================= CURRENTLY LEARNING ================= -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,git,github"
+    alt="JavaScript Git and GitHub"
+  />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      📚 <b>JavaScript</b>
+      <br>
+      <sub>Strengthening fundamentals and coding logic.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🔧 <b>Git & GitHub</b>
+      <br>
+      <sub>Learning version control and project management.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      💡 <b>Web Development</b>
+      <br>
+      <sub>Building projects to improve practical skills.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vishal-chaudharyy&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-chaudharyy&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vishal-chaudharyy&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <b>✨ Keep Learning. Keep Building. Keep Growing. 🚀</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
+```
